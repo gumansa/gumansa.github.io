@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="http://localhost:4000/tag/shopping/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2022-01-14T14:59:06+09:00</updated>
+  <id>http://localhost:4000/tag/shopping/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">엄청 할인 쇼핑 | </title>
+  
+
+  
+    <subtitle>매일매일 엄청 할인하는 상품을 추천해 드려요.</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">엄청 할인 쇼핑 (2022-01-14)</title>
+      <link href="http://localhost:4000/daily-shopping" rel="alternate" type="text/html" title="엄청 할인 쇼핑 (2022-01-14)" />
+      <published>2022-01-14T00:00:00+09:00</published>
+      <updated>2022-01-14T00:00:00+09:00</updated>
+      <id>http://localhost:4000/daily-shopping</id>
+      <content type="html" xml:base="http://localhost:4000/daily-shopping">&lt;p&gt;테스트 포스팅&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>GUMANSA</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="shopping" />
+      
+
+      
+        <summary type="html">테스트 포스팅</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
