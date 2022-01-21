@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
   <link href="http://localhost:4000/tag/shopping/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2022-01-21T13:21:30+09:00</updated>
+  <updated>2022-01-21T17:57:06+09:00</updated>
   <id>http://localhost:4000/tag/shopping/feed.xml</id>
 
   
@@ -33,11 +33,11 @@
   
     <entry>
       <title type="html">(전체보기) 오늘의 엄청할인</title>
-      <link href="http://localhost:4000/daily-shopping" rel="alternate" type="text/html" title="(전체보기) 오늘의 엄청할인" />
+      <link href="http://localhost:4000/daily-shopping3" rel="alternate" type="text/html" title="(전체보기) 오늘의 엄청할인" />
       <published>2022-01-21T00:00:00+09:00</published>
       <updated>2022-01-21T00:00:00+09:00</updated>
-      <id>http://localhost:4000/daily-shopping</id>
-      <content type="html" xml:base="http://localhost:4000/daily-shopping">&lt;ol&gt;
+      <id>http://localhost:4000/daily-shopping3</id>
+      <content type="html" xml:base="http://localhost:4000/daily-shopping3">&lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;[&lt;span style=&quot;color:red&quot;&gt;75%&lt;/span&gt; 할인] 홀리데이즈 프리미엄 콜라겐, 120정, 2개&lt;/strong&gt;&lt;/p&gt;
 
