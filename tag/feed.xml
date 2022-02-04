@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
-  <link href="http://localhost:4000/tag/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2022-02-04T17:26:56+09:00</updated>
-  <id>http://localhost:4000/tag/feed.xml</id>
+  <link href="https://gumansa.github.io/tag/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://gumansa.github.io/" rel="alternate" type="text/html" />
+  <updated>2022-02-04T17:55:59+09:00</updated>
+  <id>https://gumansa.github.io/tag/feed.xml</id>
 
   
   
@@ -33,11 +33,11 @@
   
     <entry>
       <title type="html">(전체보기) 오늘의 엄청할인(최대 82%)</title>
-      <link href="http://localhost:4000/daily-shopping8" rel="alternate" type="text/html" title="(전체보기) 오늘의 엄청할인(최대 82%)" />
+      <link href="https://gumansa.github.io/daily-shopping8" rel="alternate" type="text/html" title="(전체보기) 오늘의 엄청할인(최대 82%)" />
       <published>2022-02-04T00:00:00+09:00</published>
       <updated>2022-02-04T00:00:00+09:00</updated>
-      <id>http://localhost:4000/daily-shopping8</id>
-      <content type="html" xml:base="http://localhost:4000/daily-shopping8">&lt;ol&gt;
+      <id>https://gumansa.github.io/daily-shopping8</id>
+      <content type="html" xml:base="https://gumansa.github.io/daily-shopping8">&lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;[&lt;span style=&quot;color:red&quot;&gt;82%&lt;/span&gt; 할인] 헤드스파 7 더 프리미엄 트리트먼트, 210ml, 1개&lt;/strong&gt;&lt;/p&gt;
 
@@ -146,11 +146,11 @@
   
     <entry>
       <title type="html">(전체보기) 오늘의 엄청할인(최대 76%)</title>
-      <link href="http://localhost:4000/daily-shopping7" rel="alternate" type="text/html" title="(전체보기) 오늘의 엄청할인(최대 76%)" />
+      <link href="https://gumansa.github.io/daily-shopping7" rel="alternate" type="text/html" title="(전체보기) 오늘의 엄청할인(최대 76%)" />
       <published>2022-02-03T00:00:00+09:00</published>
       <updated>2022-02-03T00:00:00+09:00</updated>
-      <id>http://localhost:4000/daily-shopping7</id>
-      <content type="html" xml:base="http://localhost:4000/daily-shopping7">&lt;ol&gt;
+      <id>https://gumansa.github.io/daily-shopping7</id>
+      <content type="html" xml:base="https://gumansa.github.io/daily-shopping7">&lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;[&lt;span style=&quot;color:red&quot;&gt;76%&lt;/span&gt; 할인] 트리트룸 헤어 포 픽서 헤어 스타일링제, 50ml, 1개&lt;/strong&gt;&lt;/p&gt;
 
@@ -259,11 +259,11 @@
   
     <entry>
       <title type="html">(전체보기) 오늘의 엄청할인(최대 80%)</title>
-      <link href="http://localhost:4000/daily-shopping6" rel="alternate" type="text/html" title="(전체보기) 오늘의 엄청할인(최대 80%)" />
+      <link href="https://gumansa.github.io/daily-shopping6" rel="alternate" type="text/html" title="(전체보기) 오늘의 엄청할인(최대 80%)" />
       <published>2022-01-28T00:00:00+09:00</published>
       <updated>2022-01-28T00:00:00+09:00</updated>
-      <id>http://localhost:4000/daily-shopping6</id>
-      <content type="html" xml:base="http://localhost:4000/daily-shopping6">&lt;ol&gt;
+      <id>https://gumansa.github.io/daily-shopping6</id>
+      <content type="html" xml:base="https://gumansa.github.io/daily-shopping6">&lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;[&lt;span style=&quot;color:red&quot;&gt;80%&lt;/span&gt; 할인] [김영주 골프] 남녀 공용 카고 조거 팬츠 GLSXSL01&lt;/strong&gt;&lt;/p&gt;
 
